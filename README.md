@@ -90,8 +90,3 @@ To inspect or clear local data in Chrome or Edge, open Developer Tools > **Appli
 
 The first package installation was interrupted. Running `npm install --no-audit --no-fund` again completed setup. A browser-only storage approach was chosen to keep this first version simple; a shared multi-user app would need a backend and database.
 
-## Screenshots and submission
-
-To capture a screenshot, run the app, add a few fictional sample customers, and use your operating system's screenshot shortcut. Do not include real customer contact details in screenshots. Save screenshots in a folder such as `screenshots/` before submitting the repository.
-
-Never commit passwords, API keys, real customer data, or `.env` files.
